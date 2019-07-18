@@ -5,7 +5,7 @@ print("My List : ",my_list)
 print("Sum List :",sum(my_list))
 
 
-my_tuple = (32,45,7,16)
+my_tuple = (31,56,43,12,76,99)
 print("\nMy Tuple :",my_tuple)
 
 set1 = {2,1,14,5,65,78,34,55,77,9,90,91,11,12}
