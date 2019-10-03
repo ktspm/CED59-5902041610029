@@ -45,8 +45,8 @@ return [
             ],
         ],
         */
-        'authManager' => [
-            'class' => 'yii\rbac\PhpManager',
+        'authManager'=>[
+            'class' =>'yii\rbac\DbManager',
         ],
     ],
     'params' => $params,
